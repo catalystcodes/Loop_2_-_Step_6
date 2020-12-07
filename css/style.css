@@ -9,3 +9,33 @@
 *::after {
     box-sizing: border-box;
 }
+
+body {
+    background-color: #78accd;
+    overflow: hidden;
+}
+
+.whole {
+    background-color: #ffffff;
+    height: 25rem;
+    width: 24rem;
+    margin: 9rem auto;
+}
+
+.head1 {
+    display: flex;
+    place-items: center;
+    padding-top: 0.8rem;
+    padding-bottom: 1.2rem;
+    border-bottom: 1px #e2e2e2 solid;
+}
+
+.p1 {
+    color: #8f98a3;
+    margin-left: 1rem;
+}
+
+.p2 {
+    color: #8f98a3;
+    margin-left: 10rem;
+}
