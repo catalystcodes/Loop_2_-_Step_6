@@ -43,7 +43,6 @@ body {
 .head2,
 .head3 {
     display: flex;
-    /* flex-direction: column; */
     place-items: center;
     justify-content: space-around;
     margin-top: 1rem;
@@ -85,4 +84,13 @@ body {
     border: #b05e8c 0.15rem solid;
     padding: 0.4rem 0.4rem;
     border-radius: 50%;
+}
+
+.head4 {
+    display: flex;
+    place-items: center;
+    justify-content: space-around;
+    margin-top: 1rem;
+    border-bottom: 1px #f4f4f4 solid;
+    padding-bottom: 1.6rem;
 }
