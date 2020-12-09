@@ -17,7 +17,7 @@ body {
 
 .whole {
     background-color: #ffffff;
-    height: 25rem;
+    height: 24.5rem;
     width: 24rem;
     margin: 9rem auto;
 }
@@ -63,4 +63,26 @@ body {
 .p4 {
     color: black;
     font-size: smaller;
+}
+
+.p5 {
+    font-size: smaller;
+    background-color: #de6e46;
+    border-radius: 50%;
+    padding: 0.5rem 0.75rem;
+    color: white;
+}
+
+.p6 {
+    font-size: smaller;
+    border: #de6e46 0.15rem solid;
+    border-radius: 50%;
+    padding: 0.4rem 0.4rem;
+}
+
+.p7 {
+    font-size: smaller;
+    border: #b05e8c 0.15rem solid;
+    padding: 0.4rem 0.4rem;
+    border-radius: 50%;
 }
