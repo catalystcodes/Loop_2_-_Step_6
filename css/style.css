@@ -17,7 +17,7 @@ body {
 
 .whole {
     background-color: #ffffff;
-    height: 24.5rem;
+    height: 25.5rem;
     width: 24rem;
     margin: 9rem auto;
 }
@@ -91,7 +91,7 @@ body {
     place-items: center;
     justify-content: space-around;
     margin-top: 1rem;
-    border-bottom: 1px #f4f4f4 solid;
+    border-bottom: 1px #e2e2e2 solid;
     padding-bottom: 1.6rem;
 }
 
@@ -113,4 +113,5 @@ body {
     display: flex;
     place-items: center;
     place-content: space-around;
+    margin-top: 1rem;
 }
